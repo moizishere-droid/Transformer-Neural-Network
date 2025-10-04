@@ -1,6 +1,4 @@
-
-```markdown
-# 🧠 Transformer From Scratch — English → Urdu Neural Machine Translation
+🧠 Transformer From Scratch — English → Urdu Neural Machine Translation
 
 This repository contains my complete implementation of a **Transformer architecture built entirely from scratch in PyTorch**, applied to **English-to-Urdu translation**.
 

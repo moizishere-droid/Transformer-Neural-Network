@@ -24,7 +24,7 @@ Here’s how the project evolved:
 | 7️⃣ | `decoder.py` | Implemented **Masked Decoder** with self-attention, cross-attention, and feed-forward layers. |
 | 8️⃣ | `transformer.py` | Integrated everything into a final **Transformer model** with clean, modular structure. |
 | 9️⃣ | `Transformer_Trainer.ipynb` | Trained the model on a bilingual dataset (English → Urdu). |
-| 🔟 | Model saved as `transformer_eng_ur_epochX.pt` after training. |
+| 🔟 | Model saved as `transformer_eng_ur_epoch6.pt` after training. |
 
 ---
 

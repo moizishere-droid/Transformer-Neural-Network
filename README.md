@@ -27,7 +27,7 @@ Here’s how the project evolved:
 | 🔟 | Model saved as `transformer_eng_ur_epoch6.pt` after training. |
 
 ## Save Model Depoly on Huggingface
-link --> https://huggingface.co/Abdulmoiz123/Transformer-Neural-Network/tree/main
+- link --> https://huggingface.co/Abdulmoiz123/Transformer-Neural-Network/tree/main
 ---
 
 ## 🌐 English → Urdu Translation
